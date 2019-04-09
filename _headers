@@ -1,0 +1,46 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-4db5c407c22c314b5df1.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-97efca871be1f841f7a5.js>; rel=preload; as=script
+/404
+  Link: </webpack-runtime-4db5c407c22c314b5df1.js>; rel=preload; as=script
+  Link: </styles.67d59bff2968c07f9b51.css>; rel=preload; as=script
+/tags
+  Link: </webpack-runtime-4db5c407c22c314b5df1.js>; rel=preload; as=script
+  Link: </styles.67d59bff2968c07f9b51.css>; rel=preload; as=script
+/categories
+  Link: </webpack-runtime-4db5c407c22c314b5df1.js>; rel=preload; as=script
+  Link: </styles.67d59bff2968c07f9b51.css>; rel=preload; as=script
+/posts/humane-typography-in-the-digital-age/
+  Link: </webpack-runtime-4db5c407c22c314b5df1.js>; rel=preload; as=script
+  Link: </styles.67d59bff2968c07f9b51.css>; rel=preload; as=script
+/pages/about/
+  Link: </webpack-runtime-4db5c407c22c314b5df1.js>; rel=preload; as=script
+  Link: </styles.67d59bff2968c07f9b51.css>; rel=preload; as=script
+/pages/contacts/
+  Link: </webpack-runtime-4db5c407c22c314b5df1.js>; rel=preload; as=script
+  Link: </styles.67d59bff2968c07f9b51.css>; rel=preload; as=script
+/tag/react
+  Link: </webpack-runtime-4db5c407c22c314b5df1.js>; rel=preload; as=script
+  Link: </styles.67d59bff2968c07f9b51.css>; rel=preload; as=script
+/tag/verdaccio
+  Link: </webpack-runtime-4db5c407c22c314b5df1.js>; rel=preload; as=script
+  Link: </styles.67d59bff2968c07f9b51.css>; rel=preload; as=script
+/tag/web-development
+  Link: </webpack-runtime-4db5c407c22c314b5df1.js>; rel=preload; as=script
+  Link: </styles.67d59bff2968c07f9b51.css>; rel=preload; as=script
+/category/javascript
+  Link: </webpack-runtime-4db5c407c22c314b5df1.js>; rel=preload; as=script
+  Link: </styles.67d59bff2968c07f9b51.css>; rel=preload; as=script
+/
+  Link: </webpack-runtime-4db5c407c22c314b5df1.js>; rel=preload; as=script
+  Link: </styles.67d59bff2968c07f9b51.css>; rel=preload; as=script
